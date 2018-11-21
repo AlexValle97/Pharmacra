@@ -1,6 +1,6 @@
 <?php
 
-    namespace PatientBundle\Form;
+    namespace PacientesBundle\Form;
 
     use Symfony\Component\Form\AbstractType;
     use Symfony\Component\Form\FormBuilderInterface;
